@@ -39,7 +39,7 @@ public class MydetailsTest {
     //////////////////////////////////////////////////////////////Equality and Identity tests
      @Test
      public void testEquality(){
-     assertEquals( mydetails2.getStudNum(), mydetails1.getStudNum());
+     assertEquals( mydetails1.getStudNum(), mydetails1.getStudNum());
      }
    
       @Test
