@@ -13,10 +13,9 @@ public class PersonDetails
     private String name, surname;
 
     //Constructor
-    public PersonDetails(String name, String surname) 
+    public PersonDetails() 
     {
-        this.name = name;
-        this.surname = surname;
+       
     }
 
     //Method used to access the name of the person
