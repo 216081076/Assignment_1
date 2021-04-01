@@ -1,3 +1,4 @@
 #Adding files and folders to be ignored by git
 
 /nbproject/
+/target/
